@@ -1,1 +1,4 @@
 Working with Rainbow 
+red
+yellow
+orange
